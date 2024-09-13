@@ -1,0 +1,219 @@
+[
+  {
+    "id": 1,
+    "name": "General Knowledge Quiz",
+    "questions": [
+      {
+        "id": 1,
+        "question": "Which of the following are primary colors?",
+        "answers": [
+          {
+            "answer": "Red",
+            "isCorrect": true
+          },
+          {
+            "answer": "Blue",
+            "isCorrect": true
+          },
+          {
+            "answer": "Green",
+            "isCorrect": false
+          },
+          {
+            "answer": "Yellow",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "question": "Which of the following are planets in our solar system?",
+        "answers": [
+          {
+            "answer": "Earth",
+            "isCorrect": true
+          },
+          {
+            "answer": "Mars",
+            "isCorrect": true
+          },
+          {
+            "answer": "Pluto",
+            "isCorrect": true
+          },
+          {
+            "answer": "Sun",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "question": "Which countries are part of the United Kingdom?",
+        "answers": [
+          {
+            "answer": "England",
+            "isCorrect": true
+          },
+          {
+            "answer": "Scotland",
+            "isCorrect": true
+          },
+          {
+            "answer": "Ireland",
+            "isCorrect": true
+          },
+          {
+            "answer": "Wales",
+            "isCorrect": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Science Trivia Quiz",
+    "questions": [
+      {
+        "id": 1,
+        "question": "Which of the following are considered fundamental states of matter?",
+        "answers": [
+          {
+            "answer": "Solid",
+            "isCorrect": true
+          },
+          {
+            "answer": "Liquid",
+            "isCorrect": true
+          },
+          {
+            "answer": "Gas",
+            "isCorrect": true
+          },
+          {
+            "answer": "Plasma",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "question": "Which of the following elements are gases at room temperature?",
+        "answers": [
+          {
+            "answer": "Hydrogen",
+            "isCorrect": true
+          },
+          {
+            "answer": "Oxygen",
+            "isCorrect": true
+          },
+          {
+            "answer": "Carbon",
+            "isCorrect": false
+          },
+          {
+            "answer": "Nitrogen",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "question": "Which of the following are renewable energy sources?",
+        "answers": [
+          {
+            "answer": "Solar",
+            "isCorrect": true
+          },
+          {
+            "answer": "Wind",
+            "isCorrect": true
+          },
+          {
+            "answer": "Natural Gas",
+            "isCorrect": false
+          },
+          {
+            "answer": "Hydro",
+            "isCorrect": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "History Facts Quiz",
+    "questions": [
+      {
+        "id": 1,
+        "question": "Which of the following were significant events in World War II?",
+        "answers": [
+          {
+            "answer": "D-Day",
+            "isCorrect": true
+          },
+          {
+            "answer": "Pearl Harbor Attack",
+            "isCorrect": true
+          },
+          {
+            "answer": "Fall of Berlin Wall",
+            "isCorrect": false
+          },
+          {
+            "answer": "Hiroshima and Nagasaki Bombings",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "question": "Which of the following were key figures in the American Civil Rights Movement?",
+        "answers": [
+          {
+            "answer": "Martin Luther King Jr.",
+            "isCorrect": true
+          },
+          {
+            "answer": "Malcolm X",
+            "isCorrect": true
+          },
+          {
+            "answer": "Rosa Parks",
+            "isCorrect": true
+          },
+          {
+            "answer": "Nelson Mandela",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "question": "Which of the following were major empires in ancient history?",
+        "answers": [
+          {
+            "answer": "Roman Empire",
+            "isCorrect": true
+          },
+          {
+            "answer": "Mongol Empire",
+            "isCorrect": true
+          },
+          {
+            "answer": "Ottoman Empire",
+            "isCorrect": true
+          },
+          {
+            "answer": "British Empire",
+            "isCorrect": false
+          }
+        ]
+      }
+    ]
+  }
+
+]
